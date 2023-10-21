@@ -12,7 +12,7 @@ int main() {
 	cout << "Nice to see you learning Git\n";
 	cout << "Nice to see you learning Git\n";
 	cout << "Nice to see you learning Git\n";
-	cout << "Nice to see you learning Git\n";
+	cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";cout << "Nice to see you learning Git\n";
 	cout << "Nice to see you learning Git\n";
 	
 	system("pause");
